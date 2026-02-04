@@ -18,6 +18,12 @@ agent-device fill @e5 "test"
 agent-device close
 ```
 
+If not installed, run:
+
+```bash
+npx -y agent-device
+```
+
 ## Core workflow
 
 1. Open app or just boot device: `open [app]`
